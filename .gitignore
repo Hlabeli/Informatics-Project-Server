@@ -1,0 +1,6 @@
+#Environments
+.venv
+/data
+.idea
+db.sqlite3
+
